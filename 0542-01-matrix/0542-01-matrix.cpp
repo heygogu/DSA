@@ -30,7 +30,7 @@ public:
 
                 if(nr<0 || nc<0 || nr>=n || nc>=m)continue;
                 if(visited[nr][nc]==1)continue;
-                if(mat[nr][nc]==0) continue;
+                
 
                 mat[nr][nc]=dist+1;
                 q.push({nr,nc,dist+1});
