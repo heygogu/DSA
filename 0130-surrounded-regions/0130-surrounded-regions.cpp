@@ -5,8 +5,6 @@ public:
         int m = board[0].size();
 
         vector<pair<int, int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-
-        vector<vector<int>> visited(n, vector<int>(m, 0));
         queue<pair<int, int>> q;
 
         // put boundary rows
