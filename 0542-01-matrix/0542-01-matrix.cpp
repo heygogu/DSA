@@ -6,7 +6,7 @@ public:
         int n = mat.size();
         int m = mat[0].size();
 
-        vector<vector<int>> visited(n, vector<int>(m, 0));
+        vector<vector<int>> dist(n, vector<int>(m, -1));
 
         // push all 0s in queue and mark them visited too
         queue<tuple<int, int, int>> q;
@@ -14,14 +14,14 @@ public:
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (mat[i][j] == 0) {
-                    visited[i][j] = 1;
+                    dist[i][j] = 0;
                     q.push({i, j, 0});
                 }
             }
         }
 
         while(!q.empty()){
-            auto [r,c,dist]=q.front(); q.pop();
+            auto [r,c,d]=q.front(); q.pop();
             
             //need to check the neighbor now
             for (auto [dr, dc] : dirs) {
@@ -29,14 +29,14 @@ public:
                 int nc=c+dc;
 
                 if(nr<0 || nc<0 || nr>=n || nc>=m)continue;
-                if(visited[nr][nc]==1)continue;
+                if(dist[nr][nc]!=-1)continue;
                 
-                mat[nr][nc]=dist+1;
-                q.push({nr,nc,dist+1});
-                visited[nr][nc]=1;
+                dist[nr][nc]=d+1;
+                q.push({nr,nc,d+1});
+                
             }
         }
 
-        return mat;
+        return dist;
     }
 };
