@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/heygogu/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/heygogu/DSA/tree/master/1036-rotting-oranges) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/heygogu/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/heygogu/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/heygogu/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/heygogu/DSA/tree/master/1036-rotting-oranges) |
+| [3748-sort-matrix-by-diagonals](https://github.com/heygogu/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/heygogu/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
