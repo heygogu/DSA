@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/heygogu/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
