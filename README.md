@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
@@ -56,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
