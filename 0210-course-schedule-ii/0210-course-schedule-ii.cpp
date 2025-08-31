@@ -31,12 +31,8 @@ public:
             }
         }
 
-        // return ans.size()==numCourses ? ans : ans.resize(0);
+        return ans.size()==numCourses ? ans : vector<int>();
 
-        if(ans.size()==numCourses){
-            return ans;
-        }
-        ans.resize(0);
-        return ans;
+      
     }
 };
