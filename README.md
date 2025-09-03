@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/heygogu/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/heygogu/DSA/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/heygogu/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heygogu/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/heygogu/DSA/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/heygogu/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/heygogu/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/heygogu/DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/heygogu/DSA/tree/master/0547-number-of-provinces) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/heygogu/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/heygogu/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/heygogu/DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/heygogu/DSA/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
