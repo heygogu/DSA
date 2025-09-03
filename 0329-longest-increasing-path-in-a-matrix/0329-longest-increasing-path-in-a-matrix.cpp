@@ -22,10 +22,10 @@ public:
         m = matrix[0].size();
         int maxi = 0;
         
+        dp.resize(n,vector<int>(m,0));
         
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                dp.resize(n,vector<int>(m,0));
                 maxi = max(maxi, solve(i, j, matrix));
             }
         }
