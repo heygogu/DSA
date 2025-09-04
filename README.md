@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/heygogu/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/heygogu/DSA/tree/master/0342-power-of-four) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/heygogu/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/heygogu/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/heygogu/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -127,4 +128,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/heygogu/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/heygogu/DSA/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/heygogu/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
