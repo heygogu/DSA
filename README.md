@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/heygogu/DSA/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/heygogu/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/heygogu/DSA/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/heygogu/DSA/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/heygogu/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/heygogu/DSA/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/heygogu/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heygogu/DSA/tree/master/0342-power-of-four) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/heygogu/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
