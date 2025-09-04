@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        int subsetSize= pow(2,nums.size());
+        int subsetSize= 1<<nums.size();
         int n = nums.size();
 
         vector<vector<int>>ans;
