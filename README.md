@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/heygogu/DSA/tree/master/0326-power-of-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/heygogu/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/heygogu/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/heygogu/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/heygogu/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/heygogu/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
