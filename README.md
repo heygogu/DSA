@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/heygogu/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/heygogu/DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/heygogu/DSA/tree/master/0136-single-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/heygogu/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/heygogu/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/heygogu/DSA/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/heygogu/DSA/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/heygogu/DSA/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/heygogu/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
