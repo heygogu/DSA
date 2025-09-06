@@ -52,6 +52,9 @@ public:
 
             XORR^(XORR&(XORR-1)) will give us 0010. 
 
+            Remember to keep xorr as long type in case xorr is -2^31 , cause if I do -1
+            here then there would be an overflow
+
         */
 
         int b1=0;
