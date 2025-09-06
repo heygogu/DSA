@@ -1,25 +1,33 @@
 class Solution {
-    long long stepsum(long long n) {
-        if (n <= 0)
-            return 0;
-        long long res = 0, base = 1, step = 1;
-        while (base <= n) {
-            long long cnt = min(n, base * 4 - 1) - base + 1;
-            res += cnt * step;
-            base *= 4;
-            step++;
-        }
-        return res;
-    }
-
 public:
-    long long minOperations(vector<vector<int>>& queries) {
-        long long ans = 0;
-        for (auto& q : queries) {
-            long long l = q[0], r = q[1];
-            long long total = stepsum(r) - stepsum(l - 1);
-            ans += (total + 1) / 2;
+    long solve(long l , long r){
+        long low=1; long k=1; long sum=0;
+        while(k>0){
+            if(low>r){
+                break;
+            }
+
+            long high = low*4-1;
+
+            int start = max(l,low);
+            int end = min(r,high);
+
+            if(start<=end){
+                sum+= (end-start+1)*k;
+            }
+
+            low = low*4;k++;
         }
+        return sum;
+    }
+    long long minOperations(vector<vector<int>>& queries) {
+        long long ans=0;
+
+        for(auto& query:queries){
+            long steps = solve(query[0],query[1]);
+            ans += (steps+1)/2;
+        }
+
         return ans;
     }
 };
