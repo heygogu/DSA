@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/heygogu/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/heygogu/DSA/tree/master/1036-rotting-oranges) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/heygogu/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/heygogu/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/heygogu/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/heygogu/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/heygogu/DSA/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/heygogu/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/heygogu/DSA/tree/master/0342-power-of-four) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/heygogu/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/heygogu/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/heygogu/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/heygogu/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
