@@ -1,8 +1,6 @@
 class Solution {
 public:
     vector<int> sumZero(int n) {
-        if(n==1) return {0};
-        if(n==2) return {-1,1};
 
         int left = n/2*-1;
         int right = n/2;
