@@ -1,24 +1,28 @@
 class Solution {
 public:
-    int mod = 1e9+7;
-    int dp[1001];
-
-    int solve(int day,int d,int f,int n){
-        if(day>=n) return 1;
-
-        if(dp[day]!=-1) return dp[day];
-
-        int ans=1;
-        for(int i=day+d;i<=min(day+f,n);i++){
-            if(i==day+f) {ans--; break;}
-            ans=(ans%mod + solve(i,d,f,n)%mod)%mod;
-        } 
-
-        return dp[day]=ans;
-
-    }
+    #define MOD 1000000007;
     int peopleAwareOfSecret(int n, int delay, int forget) {
-        memset(dp,-1,sizeof(dp));
-        return solve(1,delay,forget,n);
+        long curr = 0;
+
+        unordered_map<int,int>mp(n+1);
+        mp[1]=1;
+
+        for(int i=2;i<=n;i++){
+            //check how many are eligible
+            curr += mp[i-delay];
+
+            //remove how many have forgetten
+            curr-= mp[i-forget];
+            mp[i]=curr%MOD;
+        }
+
+        long count=0;
+        for(int i=1;i<=n;i++){
+            count+=mp[i];
+            count-=mp[i-forget];
+        }
+
+        return count%MOD;
+
     }
 };
