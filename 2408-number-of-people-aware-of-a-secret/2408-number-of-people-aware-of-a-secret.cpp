@@ -3,18 +3,18 @@ public:
     int mod = 1e9+7;
     int dp[1001];
 
-    int solve(int idx,int d,int f,int n){
-        if(idx>=n) return 1;
+    int solve(int day,int d,int f,int n){
+        if(day>=n) return 1;
 
-        if(dp[idx]!=-1) return dp[idx];
+        if(dp[day]!=-1) return dp[day];
 
         int ans=1;
-        for(int i=idx+d;i<=min(idx+f,n);i++){
-            if(i==idx+f) {ans--; break;}
+        for(int i=day+d;i<=min(day+f,n);i++){
+            if(i==day+f) {ans--; break;}
             ans=(ans%mod + solve(i,d,f,n)%mod)%mod;
         } 
 
-        return dp[idx]=ans;
+        return dp[day]=ans;
 
     }
     int peopleAwareOfSecret(int n, int delay, int forget) {
