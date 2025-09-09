@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/heygogu/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/heygogu/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Union Find
 |  |
 | ------- |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/heygogu/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/heygogu/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/heygogu/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
