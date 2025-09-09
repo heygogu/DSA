@@ -1,20 +1,26 @@
 class Solution {
 public:
     int mod = 1e9+7;
+    int dp[1001];
+
+    int solve(int idx,int d,int f,int n){
+        if(idx+d>n) return 1;
+
+        if(dp[idx]!=-1) return dp[idx];
+
+        int ans=1;
+        for(int i=idx+d;i<=min(idx+f,n);i++){
+            if(i==idx+f) {ans--; break;}
+
+            ans=(ans%mod + solve(i,d,f,n)%mod)%mod;
+
+        } 
+
+        return dp[idx]=ans;
+
+    }
     int peopleAwareOfSecret(int n, int delay, int forget) {
-        int count = 1;
-        vector <int> dp(n+1,0);
-        
-        dp[1] = 1;
-        for(int i = 2; i<=n; i++){
- 
-            if(i-delay>=1) dp[i]++;
- 
-            for(int j = max(1,i-forget+1); j<=max(1,i-delay); j++)
-                dp[i] = (dp[i]%mod + dp[j]%mod)%mod;
-            
-            if(i-forget>=1) dp[i]--;
-        }
-        return dp[n]%mod;
+        memset(dp,-1,sizeof(dp));
+        return solve(1,delay,forget,n);
     }
 };
