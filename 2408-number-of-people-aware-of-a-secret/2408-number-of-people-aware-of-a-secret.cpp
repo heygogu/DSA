@@ -7,6 +7,8 @@ public:
         unordered_map<int,int>mp(n+1);
         mp[1]=1;
 
+        /* in map ith element represent the day and corresponding element represents new people who got to know the secret */
+
         for(int i=2;i<=n;i++){
             //check how many are eligible
             curr += mp[i-delay];
