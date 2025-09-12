@@ -1,14 +1,13 @@
 class Solution {
 public:
-    bool doesAliceWin(string s) {
-        int count=0;
-        string vowels = "aeiou";
-        for(auto& ch: s){
-            if(vowels.find(ch)!=string::npos){
-                count++;
-                return true;
-            }
+    bool doesAliceWin(const string& s) {
+        static const bool isVowel[256] = {
+            ['a'] = true, ['e'] = true, ['i'] = true, ['o'] = true, ['u'] = true
+        };
+
+        for (char ch : s) {
+            if (isVowel[(unsigned char)ch]) return true;
         }
-       return false;
+        return false;
     }
 };
