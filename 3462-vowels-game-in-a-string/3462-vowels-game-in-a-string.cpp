@@ -9,7 +9,6 @@ public:
             }
         }
 
-        if(count>0) return true;
-        return false;
+       return count>0;
     }
 };
