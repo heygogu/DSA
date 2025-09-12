@@ -6,9 +6,9 @@ public:
         for(auto& ch: s){
             if(vowels.find(ch)!=string::npos){
                 count++;
-                break;
+                return true;
             }
         }
-       return count>0;
+       return false;
     }
 };
