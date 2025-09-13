@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/heygogu/DSA/tree/master/0133-clone-graph) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/heygogu/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/heygogu/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,8 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/heygogu/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/heygogu/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/heygogu/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/heygogu/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/heygogu/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
