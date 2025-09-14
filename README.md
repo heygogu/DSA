@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/heygogu/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/heygogu/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/heygogu/DSA/tree/master/0733-flood-fill) |
+| [1006-vowel-spellchecker](https://github.com/heygogu/DSA/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/heygogu/DSA/tree/master/1036-rotting-oranges) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/heygogu/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/heygogu/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/heygogu/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/heygogu/DSA/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/heygogu/DSA/tree/master/0133-clone-graph) |
+| [1006-vowel-spellchecker](https://github.com/heygogu/DSA/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/heygogu/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/heygogu/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/heygogu/DSA/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/heygogu/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/heygogu/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/heygogu/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
